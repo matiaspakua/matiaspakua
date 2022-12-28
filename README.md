@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @matiaspakua (software enthusiast).
+- 👋 Hi, I’m @matiaspakua just another software enthusiast
 - 👀 I’m interested in Software Engineering: development, testing, analisys, design, architecture, DevSecOps.
-- 🌱 I’m currently working with Java, Spring Framework, RDBM, QA Automation with RobotFramework and Selenium.
-- 💞️ I’m looking to learn and share projects and code.
-- 📫 How to reach me: linkedin: https://www.linkedin.com/in/matiasmiguez/
+- 🌱 I’m currently working with Java, Spring Framework, RDBM, QA Automation
+- 💞️ I’m looking to learn, learn and learn
+- 📫 How to reach me: https://www.linkedin.com/in/matiasmiguez/
 
 <!---
 matiaspakua/matiaspakua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
