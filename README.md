@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @matiaspakua a software enthusiast
-- 👀 I’m interested in Software Engineering: development, QA & testing, analisys & design, SW architecture, DevSecOps.
-- 🌱 I’m currently working with Java, Spring Framework, SQL Databases, Docker and some QA Automation
-- 💞️ I’m looking to learn, improve and give the best
-- 📫 How to reach me: https://www.linkedin.com/in/matiasmiguez/
+- 👀 I’m interested in Software Engineering: development, QA & testing, analisys & design, Software and System architecture, DevSecOps.
+- 🌱 I’m currently working with Java, Spring Framework, SQL Databases, Docker and QA Automation
+- 💞️ I’m looking to keep learning, improve as a professional and personal growth
+- 📫 How to reach me: https://www.linkedin.com/in/matiasmiguez/ (DM, connect)
 
               
 <!---
