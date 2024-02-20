@@ -1,9 +1,32 @@
 ![](https://media.licdn.com/dms/image/D4D16AQGBFSaxwsexOw/profile-displaybackgroundimage-shrink_350_1400/0/1708414103723?e=1714003200&v=beta&t=DR6aXyr8v3iGH8ikVcppoJP_YtWABsxwqpioWjFR5bo)
 
+This image is how I understand Software Engineering. The image begins with a light bulb icon, which represents the conception of an idea or a problem to solve. This is the spark that ignites the software engineering journey, where we identify a need or an opportunity and come up with innovative solutions.
+
+The word “Software” is spelled out with colorful blocks, each letter representing a crucial element or phase in the software development lifecycle. Let’s look at them one by one:
+
+- **S (Well-Defined Process)**: The process begins with a well-defined methodology, ensuring that every phase of development is planned and executed with some precision and with a clear objective. It’s akin to laying down the blueprint for constructing a robust and efficient software system.
+    
+- **O (CI/CD)**: Continuous Integration and Continuous Deployment (CI/CD) are represented by the arrows that connect the different phases (as a pipeline in Jenkins), emphasizing automated testing and deployment to streamline and optimize the development workflow.  
+    
+- **F (TDD)**: Test-Driven Development (TDD) follows, embodied by the red-green-refactor cycle. It underscores writing tests before code (or try it!!!), ensuring that every piece of code is functional and bug-free.
+    
+- **T (Feedback Loops)**: Feedback loops are integral for iterative improvement. They ensure that feedback is promptly acted upon, enhancing software quality over time.
+    
+- **W (Iterative-Incremental Development)**: Iterative-incremental development emphasizes refining the software in small, manageable increments, ensuring adaptability and flexibility in meeting changing requirements.
+    
+- **A (Conceptualization)**: The "light bulb". The conception of an idea or problem to solve marks the inception where innovative solutions are birthed from identifying real-world challenges.
+    
+- **R (Artifacts Generation)**: Each phase generates artifacts – tangible outputs like documents or code – evidencing progress and facilitating subsequent stages of development.
+    
+
+The image ends with a refresh icon, which indicates that the software engineering journey is never over. There is always room for improvement, learning, and innovation.
+
+The little joke inserted—a Linux bash command (`$ /home/matias/miguez/ls -la`)—adds a touch of humor while subtly nodding to the technical acumen integral in software engineering. It shows the contents of an imaginary folder (my LinkedIn profile or my GitHub landing page), where you can see information about my self (project in git, my blog, working experience, courses, certification, posts that I share, etc.)
+
 - 👋 Hi, I’m @matiaspakua a software enthusiast
-- 👀 I’m interested in Software Engineering: development, QA & testing, analisys & design, Software and System architecture, AI, DevSecOps, security and all in between.
-- 🌱 I’m currently working with Java, Spring Framework, SQL Databases, Docker and QA Automation
-- 💞️ I’m looking to keep learning, share what I know, improve as a professional and personal growth
+- 👀 I’m interested in Software Engineering: development, QA & testing, analisys & design, Leadership, Software and System architecture, AI, DevSecOps, security and all in between.
+- 🌱 I’m currently working with Java, Spring Framework, SQL Databases, Docker and QA Automation (my most used stack at the moment)
+- 💞️ I’m looking to keep learning, share what I know, improve as a professional and personal growth as a leader
 - 📫 How to reach me: https://www.linkedin.com/in/matiasmiguez/ (DM, connect)
 
               
