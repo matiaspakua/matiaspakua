@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D4D16AQFcVUCbbIa1aA/profile-displaybackgroundimage-shrink_350_1400/0/1708368375679?e=1714003200&v=beta&t=nH0kAuLahLDjOMbzS8dizkxvm72q_QRK6EB9Fvmh49g)
+![](https://media.licdn.com/dms/image/D4D16AQGBFSaxwsexOw/profile-displaybackgroundimage-shrink_350_1400/0/1708414103723?e=1714003200&v=beta&t=DR6aXyr8v3iGH8ikVcppoJP_YtWABsxwqpioWjFR5bo)
 
 - 👋 Hi, I’m @matiaspakua a software enthusiast
 - 👀 I’m interested in Software Engineering: development, QA & testing, analisys & design, Software and System architecture, AI, DevSecOps, security and all in between.
