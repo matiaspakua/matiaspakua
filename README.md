@@ -8,7 +8,7 @@ The word “Software” is spelled out with colorful blocks, each letter represe
     
 - **O (CI/CD)**: Continuous Integration and Continuous Deployment (CI/CD) are represented by the arrows that connect the different phases (as a pipeline in Jenkins), emphasizing automated testing and deployment to streamline and optimize the development workflow.  
     
-- **F (TDD)**: Test-Driven Development (TDD) follows, embodied by the red-green-refactor cycle. It underscores writing tests before code (or try it!!!), ensuring that every piece of code is functional and bug-free.
+- **F (TDD)**: Test-Driven Development (TDD) follows, embodied by the red-green-refactor cycle. It underscores writing tests, write code that pass the test and refactor (to avoid architecture erosion), ensuring that every piece of code is functional and bug-free and "clean code".
     
 - **T (Feedback Loops)**: Feedback loops are integral for iterative improvement. They ensure that feedback is promptly acted upon, enhancing software quality over time.
     
@@ -18,15 +18,14 @@ The word “Software” is spelled out with colorful blocks, each letter represe
     
 - **R (Artifacts Generation)**: Each phase generates artifacts – tangible outputs like documents or code – evidencing progress and facilitating subsequent stages of development.
     
-
 The image ends with a refresh icon, which indicates that the software engineering journey is never over. There is always room for improvement, learning, and innovation.
 
 The little joke inserted—a Linux bash command (`$ /home/matias/miguez/ls -la`)—adds a touch of humor while subtly nodding to the technical acumen integral in software engineering. It shows the contents of an imaginary folder (my LinkedIn profile or my GitHub landing page), where you can see information about my self (project in git, my blog, working experience, courses, certification, posts that I share, etc.)
 
-- 👋 Hi, I’m @matiaspakua a software enthusiast
+- 👋 Hi, I’m @matiaspakua (Matias) a software engineer and tech enthusiast
 - 👀 I’m interested in Software Engineering: development, QA & testing, analisys & design, Leadership, Software and System architecture, AI, DevSecOps, security and all in between.
-- 🌱 I’m currently working with Java, Spring Framework, SQL Databases, Docker and QA Automation (my most used stack at the moment)
-- 💞️ I’m looking to keep learning, share what I know, improve as a professional and personal growth as a leader
+- 🌱 I’m currently working with Java, Spring Framework, SQL Databases, Docker and QA Automation (my current stack)
+- 💞️ I’m looking to continous learning, share what I know, improve as a professional and personal growth as a "Tech Leader"
 - 📫 How to reach me: https://www.linkedin.com/in/matiasmiguez/ (DM, connect)
 
               
