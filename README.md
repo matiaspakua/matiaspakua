@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D4D16AQGBFSaxwsexOw/profile-displaybackgroundimage-shrink_350_1400/0/1708414103723?e=1714003200&v=beta&t=DR6aXyr8v3iGH8ikVcppoJP_YtWABsxwqpioWjFR5bo)
+![](https://media.licdn.com/dms/image/D4D16AQHEKBEQ_3QiEw/profile-displaybackgroundimage-shrink_350_1400/0/1710450624677?e=1715817600&v=beta&t=v0Gx9hLy8rzP2g9iW0sS2Y9HZXn36RzluAPfuLxwNQM)
 
 This image is how I understand Software Engineering. The image begins with a light bulb icon, which represents the conception of an idea or a problem to solve. This is the spark that ignites the software engineering journey, where we identify a need or an opportunity and come up with innovative solutions.
 
