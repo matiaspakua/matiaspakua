@@ -17,6 +17,8 @@ The word “Software” is spelled out with colorful blocks, each letter represe
 - **A (Conceptualization)**: The "light bulb". The conception of an idea or problem to solve marks the inception where innovative solutions are birthed from identifying real-world challenges.
     
 - **R (Artifacts Generation)**: Each phase generates artifacts – tangible outputs like documents or code – evidencing progress and facilitating subsequent stages of development.
+
+Below, a series of images represent my Professional Journey: In the Aerospace domain, I significantly contributed to four distinct space programs—SAOCOM, ARSAT, SMALLGEO, and SABIAMAR. Transitioning to Cybersecurity, I spearheaded the development of a Fraud Detection system, unraveling its complexities. Presently, I'm deeply engaged in the Insurance sector, playing a pivotal role in shaping a global platform for a major insurance company. Continuous Learning Advocate, fueling my passion for continuous learning, I remain at the forefront of technology and industry trends. Eager to collaborate with like-minded professionals, my goal is to contribute to the creation of innovative software solutions that drive industries forward.
     
 The image ends with a refresh icon, which indicates that the software engineering journey is never over. There is always room for improvement, learning, and innovation.
 
