@@ -1,10 +1,10 @@
 ![](https://media.licdn.com/dms/image/D4D16AQFQoPD2dpVULQ/profile-displaybackgroundimage-shrink_350_1400/0/1717705315523?e=1723075200&v=beta&t=VKnbyHdExNkKuQs25c1skaB4i1O04o2GJ9cdPUgQzII)
 
-- 👋 Hi, I’m @matiaspakua (Matias) a software engineer and tech enthusiast
-- 👀 I’m interested in Software Engineering: development, QA & testing, analisys & design, Leadership, Software and System architecture, AI, DevSecOps, security and all in between.
-- 🌱 I’m currently working with Java, Spring Framework, SQL Databases, Docker and QA Automation (my current stack)
-- 💞️ I’m looking to continous learning, share what I know, improve as a professional and personal growth as a "Tech Leader"
-- 📫 How to reach me: https://www.linkedin.com/in/matiasmiguez/ (DM, connect)
+👋 Hola, soy @matiaspakua (Matias), ingeniero de software y entusiasta de la tecnología ó "Techie"
+👀 Me interesa la Ingeniería de Software: desarrollo, QA y pruebas, análisis y diseño, liderazgo, arquitectura de software y sistemas, IA, DevSecOps, seguridad y todo lo relacionado.
+🌱 Actualmente, estoy trabajando con Java, Spring Framework, bases de datos SQL, Docker y automatización de QA (mi stack actual).
+💞️ Me gusta el aprendizaje continuo, compartir lo que sé, mejorar como profesional y crecer personalmente como "Tech Leader" o algun día, Manager.
+📫 Cómo contactarme: https://www.linkedin.com/in/matiasmiguez/ (DM, conectar).
 
               
 <!---
