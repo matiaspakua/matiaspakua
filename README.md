@@ -1,3 +1,6 @@
-# Notas personasles
+# Poryectos personales
 
-Blog de notas
+- Cursos
+- Blog de notas
+- Proyectos
+- POC
