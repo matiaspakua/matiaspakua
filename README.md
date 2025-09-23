@@ -1,6 +1,5 @@
-# Poryectos personales
+# Proyectos personales / Portfolio
 
 - Cursos
 - Blog de notas
-- Proyectos
-- POC
+- Proyectos / POCs
