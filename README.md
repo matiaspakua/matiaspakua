@@ -1,6 +1,5 @@
-# Proyectos personales / Portfolio (WIP)
+##  Proyectos personales / Portfolio
 
-Refactor completo:
 - Cursos
 - Blog de notas
 - Proyectos / POCs
