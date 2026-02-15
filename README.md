@@ -166,11 +166,6 @@ I'm always open to discussing **software architecture**, **aerospace technology*
 
 <div align="center">
 
-### 📈 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/matiaspakua/count.svg)
-
----
 
 **⭐️ From [matiaspakua](https://github.com/matiaspakua) | ...es todo un tema!** 🚀
 
