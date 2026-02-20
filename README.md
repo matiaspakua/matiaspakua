@@ -133,9 +133,13 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 
 
 🎓 **Master Mcs in Technology Management and digital Innovation (laSalle Barcelona)** (2025)
+
 🎓 **Software Engineering Specialist (UCA, Buenos Aires)** (2022)  
+
 🎓 **Bachelor's degree in Information Systems Engineering (2012), FASTA**
+
 🌐 Languages: **Spanish** (Native) - **English** (B2) - **Italian** (B1)
+
 📜 **Continuous Learning:** WeAreDevelopers World Congress Berlin 2024, Barcelona Java Users Group
 
 ---
