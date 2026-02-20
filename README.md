@@ -17,8 +17,6 @@
 Software Systems Engineer with extensive experience developing complex solutions for **space programs and aerospace industry**. Currently working at **iXrev Solutions**, focusing on aerospace software and satellite engineering. Passionate about **technical leadership**, **quality assurance**, and continuous learning.
 
 📍 Based in **Barcelona, Catalonia, Spain**  
-🎓 **Master's in Technology Management** (2025) | **Software Engineering Specialist** (2022)  
-🌐 Languages: **Spanish** (Native) | **English** (B2) | **Italian** (B1)
 
 ---
 
@@ -137,9 +135,11 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 
 ## 🎓 Education & Certifications
 
-🎓 **Master's in Technology Management** (2025) - La Salle BCN  
-🎓 **Postgraduate Degree** in Software Engineering Specialist (2022)  
-🎓 **Bachelor's Degree** in Information Systems (2012)  
+
+🎓 **Master Mcs in Technology Management and digital Innovation (laSalle Barcelona)** (2025)
+🎓 **Software Engineering Specialist (UCA, Buenos Aires)** (2022)  
+🎓 **Bachelor's degree in Information Systems Engineering (2012), FASTA**
+🌐 Languages: **Spanish** (Native) - **English** (B2) - **Italian** (B1)
 📜 **Continuous Learning:** WeAreDevelopers World Congress Berlin 2024, Barcelona Java Users Group
 
 ---
