@@ -113,10 +113,6 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiaspakua&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspakua&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matiaspakua&theme=radical&hide_border=true)
 
 </div>
