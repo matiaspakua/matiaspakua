@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -18,7 +18,6 @@ Software Systems Engineer with extensive experience developing complex solutions
 
 📍 Based in **Barcelona, Catalonia, Spain**  
 
----
 
 ## 💼 Core Expertise
 
@@ -36,8 +35,6 @@ Software Systems Engineer with extensive experience developing complex solutions
 - Product ownership and **product management**
 - Team guidance and **agile methodologies**
 - Process improvement and **DevSecOps** practices
-
----
 
 ## 🛠️ Tech Stack
 
@@ -69,7 +66,6 @@ Software Systems Engineer with extensive experience developing complex solutions
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
----
 
 ## 📚 Featured Projects
 
@@ -79,35 +75,30 @@ Software Systems Engineer with extensive experience developing complex solutions
 🔗 **Live Blog:** [matiaspakua.github.io/tech.notes.io](https://matiaspakua.github.io/tech.notes.io/)  
 📌 Topics: `software-engineering` `software-testing` `leadership-development` `technology`
 
----
 
 ### [🤖 ml-demo-project](https://github.com/matiaspakua/ml-demo-project)
 Cloud computing solutions demonstration with **MLOps practices**. Showcases integration of machine learning models with cloud infrastructure for scalable deployments.
 
 🔧 **Stack:** `Python` `Flask` `Docker` `pytest` `DevOps` `MLOps`
 
----
 
 ### [🏦 cash_card_springboot](https://github.com/matiaspakua/cash_card_springboot)
 **REST API** application built with Spring Boot, demonstrating **Test-Driven Development (TDD)** practices. Clean architecture implementation for financial services.
 
 🔧 **Stack:** `Java` `Spring Boot` `TDD` `REST API` `JUnit`
 
----
 
 ### [✅ verificador_agenda_disponibilidad](https://github.com/matiaspakua/verificador_agenda_disponibilidad)
 Java project demonstrating **TDD with JUnit**. Practical implementation of availability checking logic with comprehensive test coverage.
 
 🔧 **Stack:** `Java` `JUnit` `TDD` `Unit Testing`
 
----
 
 ### [💻 Notaire - Sistema de gestion notarial](https://github.com/matiaspakua/notairejava_exercices)
 
 
 🔧 **Focus:** `Java` `Algorithms` `Problem Solving` `Code Quality`
 
----
 
 ## 📊 GitHub Stats
 
@@ -117,8 +108,6 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 
 </div>
 
----
-
 ## 🎯 Current Focus
 
 - 🤖 Exploring **AI/ML applications** in software engineering and aerospace
@@ -127,7 +116,6 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 - 🚀 Contributing to **Barcelona's tech ecosystem** through community engagement
 - 📖 Complete **Master's in Technology Management** at La Salle BCN
 
----
 
 ## 🎓 Education & Certifications
 
@@ -142,7 +130,6 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 
 📜 **Continuous Learning:** WeAreDevelopers World Congress Berlin 2024, Barcelona Java Users Group
 
----
 
 ## 🌟 Professional Highlights
 
@@ -153,7 +140,6 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 - 📝 Active atendee to **Barcelona Java Users Group** meetups
 - 🔒 Published comprehensive series on **DevSecOps from QA perspective**
 
----
 
 ## 🤝 Let's Connect
 
@@ -162,7 +148,6 @@ I'm always open to discussing **software architecture**, **aerospace technology*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matiasmiguez)
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-Visit-12100E?style=for-the-badge&logo=github)](https://matiaspakua.github.io/tech.notes.io/)
 
----
 
 <div align="center">
 
