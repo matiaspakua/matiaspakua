@@ -94,7 +94,7 @@ Java project demonstrating **TDD with JUnit**. Practical implementation of avail
 🔧 **Stack:** `Java` `JUnit` `TDD` `Unit Testing`
 
 
-### [💻 Notaire - Sistema de gestion notarial](https://github.com/matiaspakua/notairejava_exercices)
+### [💻 Notaire - Sistema de gestion notarial](https://github.com/matiaspakua/notaire)
 
 
 🔧 **Focus:** `Java` `Algorithms` `Problem Solving` `Code Quality`
